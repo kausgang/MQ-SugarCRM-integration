@@ -180,7 +180,7 @@ function call_JAVA($option) //OPTIONS SHOULD BE "check_depth" or "get_first"
 {
     $command = "java -jar jar\MQ_java.jar config.ini " . $option; //PHP CONCATENATION OPERATOR (.)
 
-    echo $command;
+    //echo $command;
 
     exec($command);
 }
