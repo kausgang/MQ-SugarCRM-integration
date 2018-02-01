@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<main:A_account xmlns:main="http://kaustav_xml/namespace/main">
+    <head:header xmlns:head="http://kaustav_xml/namespace/main/head">
+        <header_info>
+            <header_data_1>header1</header_data_1>
+            <header_data_2>header2</header_data_2>
+        </header_info>
+    </head:header>
+    <body:data  xmlns:body="http://kaustav_xml/namespace/main/body">
+        <account_data >
+            <account>
+                <account_name>ac1</account_name>
+                <account_description>account 1</account_description>
+            </account>
+            <account>
+                <account_name>ac2</account_name>
+                <account_description>account 2</account_description>
+            </account>
+            <account>
+                <account_name>ac3</account_name>
+                <account_description>account 3</account_description>
+            </account>
+            <account>
+                <account_name>ac4</account_name>
+                <account_description>account 4</account_description>
+            </account>
+            <account>
+                <account_name>ac5</account_name>
+                <account_description>account 5</account_description>
+            </account>
+            <account>
+                <account_name>ac6</account_name>
+                <account_description>account 6</account_description>
+            </account>
+            <account>
+                <account_name>ac7</account_name>
+                <account_description>account 7</account_description>
+            </account>
+            <account>
+                <account_name>ac8</account_name>
+                <account_description>account 8</account_description>
+            </account>
+            <account>
+                <account_name>ac9</account_name>
+                <account_description>account 9</account_description>
+            </account>
+            <account>
+                <account_name>ac10</account_name>
+                <account_description>account 10</account_description>
+            </account>
+            <account>
+                <account_name>ac11</account_name>
+                <account_description>account 11</account_description>
+            </account>
+            <account>
+                <account_name>ac12</account_name>
+                <account_description>account 12</account_description>
+            </account>
+            <account>
+                <account_name>ac13</account_name>
+                <account_description>account 13</account_description>
+            </account>
+            <account>
+                <account_name>ac14</account_name>
+                <account_description>account 14</account_description>
+            </account>
+            <account>
+                <account_name>ac15</account_name>
+                <account_description>account 15</account_description>
+            </account>
+            <account>
+                <account_name>ac16</account_name>
+                <account_description>account 16</account_description>
+            </account>
+            <account>
+                <account_name>ac17</account_name>
+                <account_description>account 17</account_description>
+            </account>
+            <account>
+                <account_name>ac18</account_name>
+                <account_description>account 18</account_description>
+            </account>
+            <account>
+                <account_name>ac19</account_name>
+                <account_description>account 19</account_description>
+            </account>
+            <account>
+                <account_name>ac20</account_name>
+                <account_description>account 20</account_description>
+            </account>
+            <account>
+                <account_name>ac21</account_name>
+                <account_description>account 21</account_description>
+            </account>
+            <account>
+                <account_name>ac22</account_name>
+                <account_description>account 22</account_description>
+            </account>
+            <account>
+                <account_name>ac23</account_name>
+                <account_description>account 23</account_description>
+            </account>
+            <account>
+                <account_name>ac24</account_name>
+                <account_description>account 24</account_description>
+            </account>
+            <account>
+                <account_name>ac25</account_name>
+                <account_description>account 25</account_description>
+            </account>
+        </account_data>
+    </body:data>
+</main:A_account>
