@@ -102,8 +102,14 @@ while (1){
         $final_array = array(); //REQUIRED TO HOLD THE FINAL RE-ARRANGED ARRAY
         $jump = $data_count;
         for($i=0;$i<$data_count;$i++){
+
             array_push($final_array,$array_stack[$i]);
-            array_push($final_array,$array_stack[$i+$jump]);
+            $k=$i;
+            for($j=1;$j<$field_count;$j++){
+
+                array_push($final_array,$array_stack[$k+$jump]);
+                $k=($k+$jump);
+            }
         }
 
         call_SUGAR($field_count,$data_count);
