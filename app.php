@@ -245,7 +245,7 @@ function read_mapping(){
 
 
 
-    return count($xml_values[0]); //return the 1st element to know the number of records returned by xpath query
+    //return count($xml_values[0]); //return the 1st element to know the number of records returned by xpath query
 
 }
 
